@@ -5,13 +5,13 @@
 Your assignment is to create an event discovery web app using Ticketmaster Discovery API.
 Link: https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/
 
-Your app should consist of two screens and it should ideally be powered by Vue.js (v2 or v3, any will do).
+Your app should consist of two screens and it should ideally be powered by React Native.
 
 Feel free to add tests how you see fit.
 
 ## Features
 
-### Home Page
+### Home Screen
 
 1. This page is used to search / discover events. It offers the following inputs:
     - **Country:** A drop-down of available countries that the user can choose from. You can find the list under the "Supported Country Codes" section on Ticketmaster's developer portal.
@@ -27,11 +27,14 @@ Feel free to add tests how you see fit.
     - Name (ascending & descending)
     - Date (ascending & descending)
     - Relevance (ascending & descending)
-6. List pagination:
+6. List pagination or infinite scroll:
     - A size drop-down with appropriate options e.g. 10, 20, 50, 100, 200
-    - Page number selections
+    - Page number selections]
 
-### Event Details Page
+7. Should have a pull to refresh function that would also keep all the filters and sorts selected
+8. When I reopen the app I want to keep all the choices and results that I have made
+
+### Event Details Screen
 
 1. This page shows details of any event as identified by its `id`.
 2. The following details need to be displayed on this page:
@@ -46,7 +49,7 @@ Feel free to add tests how you see fit.
 
 ## UI
 
-Feel free to use any CSS framework of your choice and create the UI as per your liking. (Bonus points for making it mobile first & responsive.)
+Feel free to use any tools to help you design your app
 
 ## API
 
