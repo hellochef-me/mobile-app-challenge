@@ -27,9 +27,11 @@ Feel free to add tests how you see fit.
     - Name (ascending & descending)
     - Date (ascending & descending)
     - Relevance (ascending & descending)
-6. List pagination or infinite scroll:
+6. List pagination or Infinite scroll
+    
+    Note: for pagination approach
     - A size drop-down with appropriate options e.g. 10, 20, 50, 100, 200
-    - Page number selections]
+    - Page number selections
 
 7. Should have a pull to refresh function that would also keep all the filters and sorts selected
 8. When I reopen the app I want to keep all the choices and results that I have made
