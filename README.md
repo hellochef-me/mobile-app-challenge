@@ -16,8 +16,8 @@ Feel free to add tests how you see fit.
 1. This page is used to search / discover events. It offers the following inputs:
     - **Country:** A drop-down of available countries that the user can choose from. You can find the list under the "Supported Country Codes" section on Ticketmaster's developer portal.
     - **Search Term:** Search for an event by its name / venue name / genre name, etc.
-    - **Start Date:** (optional) Filter with a start date after this date (format e.g. 2021-12-20T17:05:00Z)
-    - **End Date:** (optional) Filter with a start date before this date (format e.g. 2021-12-31T17:05:00Z)
+    - **Start Date:** (optional) Filter with a start date after this date (format e.g. 2023-10-20T17:05:00Z)
+    - **End Date:** (optional) Filter with a start date before this date (format e.g. 2023-10-31T17:05:00Z)
 2. Once the user enters all the fields and hits the **Search** button, she is shown a list of all the events available for the chosen country and matching the given search term.
 3. This list can be further filtered, sorted, and paginated as per the following points:
 4. List filters:
