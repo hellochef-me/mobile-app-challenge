@@ -33,8 +33,8 @@ Feel free to add tests how you see fit.
     - A size drop-down with appropriate options e.g. 10, 20, 50, 100, 200
     - Page number selections
 
-7. Should have a pull to refresh function that would also keep all the filters and sorts selected
-8. When I reopen the app I want to keep all the choices and results that I have made
+7. The screen should have a pull to refresh function that would also retain all the filters and sorts that were applied
+8. The user's last 3 searches should be displayed at the bottom of the page in a separate section
 
 ### Event Details Screen
 
