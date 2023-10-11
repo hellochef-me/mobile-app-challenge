@@ -2,12 +2,14 @@
 
 ## Brief
 
-Your assignment is to create an event discovery web app using Ticketmaster Discovery API.
+Your assignment is to create an event discovery mobile app using Ticketmaster Discovery API.
 Link: https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/
 
 Your app should consist of two screens and it should ideally be powered by React Native.
 
 Feel free to add tests how you see fit.
+
+Note: Please include a clear instructions on how developers will be able to use and run the app.
 
 ## Features
 
