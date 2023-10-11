@@ -9,7 +9,7 @@ Your app should consist of two screens and it should ideally be powered by React
 
 Feel free to add tests how you see fit.
 
-Note: Please include a clear instructions on how developers will be able to use and run the app.
+Note: Please include clear instructions on how developers will be able to use and run the app.
 
 ## Features
 
